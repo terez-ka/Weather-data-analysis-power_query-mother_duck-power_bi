@@ -48,7 +48,7 @@ The visualizations are included in a separate Power BI file.
 
 ## 📎 Files Included
 
-- `Weather_data_workflow.docx` – documentation of all steps with screenshots  
+- `Weather_data_workflow.pdf` – documentation of all steps with screenshots  
 - Power BI report (`Weather_Visualization.pbix`)
 
 ---

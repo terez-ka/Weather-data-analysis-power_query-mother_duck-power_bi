@@ -3,6 +3,8 @@ This project demonstrates a complete data analysis workflow, including **data cl
 The dataset (weatherHistory.csv) was obtained from [Kaggle](https://www.kaggle.com/datasets/rafunlearnhub/weatherhistory/data).
 
 ---
+## Power Query
+The data was cleaned in Power Query — data types were corrected, decimal commas replaced with points, duplicates removed, and missing or unrealistic values handled.
 
 ## 🧮 SQL Analysis
 
